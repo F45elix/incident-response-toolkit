@@ -2,13 +2,11 @@
 
 > **Skills demonstrated:** Incident Response (NIST 800-61r2) · Digital Forensics · IOC Extraction · STIX 2.1 · Threat Intelligence · Malware Analysis · Evidence Chain-of-Custody · Python
 
-An automated Incident Response toolkit implementing the full **NIST SP 800-61r2** IR lifecycle — from evidence collection and IOC extraction through to STIX 2.1 threat intelligence export. Built to demonstrate skills sought in senior SOC, IR, and threat intelligence roles in Australia and the UK.
+An automated Incident Response toolkit implementing the full **NIST SP 800-61r2** IR lifecycle — from evidence collection and IOC extraction through to STIX 2.1 threat intelligence export. Built to demonstrate skills sought in senior SOC, IR, and threat intelligence roles. 
 
 ---
 
-## 📋 Why This Project
 
-Top skills from sponsored IR/SOC roles on SEEK (AU) and CyberSecurityJobs (UK):
 
 | Skill | Implementation |
 |---|---|
