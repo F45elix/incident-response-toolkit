@@ -1,0 +1,21 @@
+.env
+.env.*
+*.env
+secrets.json
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Never commit real evidence or IOC files
+evidence/
+*.pcap
+*.mem
+*.dd
+*.raw
+*.evtx
+iocs_*.json
+stix_bundle_real*.json
